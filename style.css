@@ -1,0 +1,84 @@
+.header{
+	background-color: green;
+	min-height: 100px;
+}
+
+ul{
+	float: right;
+	list-style: none;
+	margin-top: 15px;
+	color: red;
+}
+ li{
+ 	display: inline-block;
+ 	padding: 10px 10px;
+ 	margin-right: 50px;
+ 	font-size: 30px;
+ 	color: white;
+ }
+ .wrapper{
+ 	overflow: hidden;
+ }
+
+ .blog{
+ 	background-color: red;
+ 	width: 70%;
+ 	height: 700px;
+ 	float: left;
+ }
+
+h1{
+	color: white;
+	padding: 100px 200px;
+}
+
+ iframe{
+ 	padding: 10px 200px;
+ }
+
+ .content{
+ 	background-color: aqua;
+ 	width: 30%;
+ 	height: 700px;
+ 	float: right;
+ }
+
+.content iframe{
+	float: right;
+	padding: 50px;
+	margin-top: 250px;
+}
+ .footer{
+ 	background-color: black;
+ 	min-height: 100px;
+ }
+
+p{
+	color: white;
+	margin:20px 600px;
+	padding-top: 50px;
+}
+.blogs{
+	overflow: hidden;
+}
+ .row1{
+	background-color: pink;
+	width: 33.33%;
+	min-height: 300px;
+	float: left;
+
+ }
+
+ .row2{
+	background-color: yellow;
+	width: 33.33%;
+	min-height: 300px;
+	float: left;
+ }
+
+ .row3{
+	background-color: blue;
+	width: 33.33%;
+	min-height: 300px;
+	float: left;
+ }
